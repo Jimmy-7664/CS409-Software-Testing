@@ -44,7 +44,7 @@
 
 ### TDD(Test driven development)
 
-![](.\1.png)
+![](1.png)
 
 ### IDM(Input domain modeling)
 
