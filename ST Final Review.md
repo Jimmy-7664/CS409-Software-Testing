@@ -44,7 +44,7 @@
 
 ### TDD(Test driven development)
 
-![](D:\Desktop\大四上\软件测试\1.png)
+![](.\1.png)
 
 ### IDM(Input domain modeling)
 
